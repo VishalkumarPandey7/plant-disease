@@ -54,6 +54,12 @@ PlantVillage Dataset
 Kaggle Plant Disease Dataset
 plant diseases classification model 
 Used data from tenserflow 
+
+result 
+model Accuracy-93%
+model used-Base model -(Efficentnet B4)
+
+
 ## 🔗 Live & Related Links
 - *Dataset link:*https://www.tensorflow.org/datasets/catalog/plant_village (dataset)
 
